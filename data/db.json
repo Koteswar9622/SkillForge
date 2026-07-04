@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": "user_1783165760816",
+      "email": "Koteswar012@gmail.com",
+      "passwordHash": "Koteswar@111",
+      "createdAt": "2026-07-04T11:49:20.816Z"
+    }
+  ],
+  "profiles": [
+    {
+      "userId": "user_1783165760816",
+      "name": "Eswar",
+      "targetCareer": "Frontend",
+      "goals": "build a react application ",
+      "currentSkills": [
+        "HTML",
+        "CSS",
+        "Basic JavaScript"
+      ],
+      "strengths": [
+        "Highly motivated",
+        "Quick learner"
+      ],
+      "weaknesses": [
+        "React Router",
+        "Backend deployment",
+        "Database structures"
+      ],
+      "updatedOn": "2026-07-04T11:51:16.085Z"
+    }
+  ],
+  "learning_paths": [
+    {
+      "userId": "user_1783165760816",
+      "targetCareer": "Frontend",
+      "nodes": [
+        {
+          "id": "node_1",
+          "title": "React Masterclass",
+          "description": "Learn advanced hooks, context, and state architecture.",
+          "status": "active",
+          "type": "concept",
+          "order": 1,
+          "duration": "1 week",
+          "skillsAcquired": [
+            "React Hooks",
+            "Context API"
+          ],
+          "resources": [
+            "React Docs",
+            "Scrimba React"
+          ]
+        },
+        {
+          "id": "node_2",
+          "title": "Full-Stack Integration Quiz",
+          "description": "Assess your skills in server routing and states.",
+          "status": "locked",
+          "type": "quiz",
+          "order": 2,
+          "duration": "2 hours",
+          "skillsAcquired": [
+            "API Routing",
+            "Authentication flows"
+          ],
+          "resources": [
+            "Express official documentation"
+          ]
+        },
+        {
+          "id": "node_3",
+          "title": "Portfolio Project",
+          "description": "Build and submit a complete MERN full stack application.",
+          "status": "locked",
+          "type": "project",
+          "order": 3,
+          "duration": "1 week",
+          "skillsAcquired": [
+            "Full stack deployment",
+            "MongoDB"
+          ],
+          "resources": [
+            "SkillForge guided handbook"
+          ]
+        },
+        {
+          "id": "node_4",
+          "title": "Technical Interview",
+          "description": "Perform full mock interview simulating real-world engineering loops.",
+          "status": "locked",
+          "type": "interview",
+          "order": 4,
+          "duration": "1 hour",
+          "skillsAcquired": [
+            "Problem Solving",
+            "Coding communication"
+          ],
+          "resources": [
+            "Cracking the Coding Interview"
+          ]
+        }
+      ],
+      "currentProgress": 0,
+      "updatedOn": "2026-07-04T11:51:39.161Z"
+    }
+  ],
+  "assessments": [],
+  "progress": [
+    {
+      "userId": "user_1783165760816",
+      "completedNodes": [],
+      "totalQuizzesTaken": 0,
+      "averageQuizScore": 0,
+      "projectsCompleted": 0,
+      "interviewsCompleted": 0,
+      "updatedOn": "2026-07-04T11:49:21.089Z"
+    }
+  ],
+  "projects": [],
+  "quizzes": [],
+  "documents": [],
+  "conversations": [
+    {
+      "id": "conv_user_1783165760816_tutor",
+      "userId": "user_1783165760816",
+      "agentType": "tutor",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is RAG and how do vector embeddings work?",
+          "timestamp": "2026-07-04T12:08:04.533Z"
+        },
+        {
+          "role": "model",
+          "content": "I apologize, but I encountered an error processing your question. This appears to be an API connectivity issue. Please try again shortly.",
+          "timestamp": "2026-07-04T12:08:04.902Z"
+        }
+      ],
+      "updatedOn": "2026-07-04T12:08:04.902Z"
+    }
+  ],
+  "interviews": []
+}

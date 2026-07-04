@@ -1,0 +1,6 @@
+{
+  "name": "SkillForge",
+  "description": "AI Multi-Agent Personalized Learning Platform helping students identify skill gaps, build projects, and prepare for interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
